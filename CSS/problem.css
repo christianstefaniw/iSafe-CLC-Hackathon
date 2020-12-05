@@ -1,0 +1,36 @@
+body {
+    font-family: "Ubuntu", sans-serif;
+    margin: 2px;
+    color: #456268;
+  }
+  
+  h1 {
+    padding-top: 1%;
+    font-size: 70px;
+    font-style: italic;
+    color: #456268
+  }
+
+
+  .custom-margin{
+    margin: 30px;
+  }
+  
+  
+  li {
+    list-style-type: none;
+    display: inline;
+  }
+  
+  a {
+    color: grey;
+  }
+  
+  a:hover {
+    color: white;
+  }
+  
+  
+  embed{
+    display: block;
+  }

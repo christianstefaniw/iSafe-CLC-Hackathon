@@ -1,0 +1,40 @@
+/* CSS SOLUTION TEAM */
+
+body {
+  font-family: "Ubuntu", sans-serif;
+  margin: 2px;
+  color: #456268;
+}
+
+h1 {
+  font-style: italic;
+  color: #456268;
+}
+
+.margin {
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.horse {
+  float: middle;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  border: 2px solid #555;
+}
+
+a:visited {
+  color: blue;
+}
+
+.custom-margin{
+  margin: 30px;
+}
+
+a:hover {
+  color: red;
+}
